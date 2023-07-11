@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+
+.header-nav {
+    display: flex;
+    list-style: none;
+}
+
+.header-nav_item {
+    margin-left: 2em;
+}

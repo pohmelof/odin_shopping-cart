@@ -1,0 +1,8 @@
+.card-item {
+    border: 1px solid red;
+    width: 200px;
+}
+
+.card-img {
+    max-width: 100%;
+}
