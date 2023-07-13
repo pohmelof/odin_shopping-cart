@@ -1,4 +1,5 @@
 import Card from "./Card";
+import '../styles/cardContainer.css';
 
 const CardContainer = (props) => {
     return (
@@ -6,8 +7,9 @@ const CardContainer = (props) => {
             {props.products.map(item => 
             <Card 
                 data={item}
-                handleClick={() => console.log(item.id)}
+                handleClick={props.click}
                 key={item.id}
+                cart={props.cart}
             />)}
         </div>
     )

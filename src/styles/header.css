@@ -1,9 +1,19 @@
 header {
     display: flex;
     background-color: aliceblue;
+    border-bottom: 2px solid green;
     align-items: center;
     justify-content: space-between;
-    padding: 0 5%;
+    padding: 0 5vw;
+}
+
+.header-logo {
+    color: green;
+    font-family: monospace;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 20px 0;
+    text-decoration: underline;
 }
 
 .header-nav {
@@ -13,4 +23,23 @@ header {
 
 .header-nav_item {
     margin-left: 2em;
+    padding-bottom: 3px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.header-nav_item:hover {
+    border-bottom: 3px solid green;
+}
+
+footer {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    background-color: aliceblue;
+    border-top: 2px solid green;
+    text-align: center;
+    padding: 10px;
+}
+footer h3 {
+    margin: 0;
 }

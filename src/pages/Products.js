@@ -1,12 +1,10 @@
-import Header from "../components/Header";
 import products from "../data/products";
 import CardContainer from "../components/CardContainer";
 
-const Products = () => {
+const Products = (props) => {
     return (
         <>
-            <Header />
-            <CardContainer products={products}/>
+            <CardContainer products={products} cart={props.cart} click={props.click}/>
         </>
     )
 }

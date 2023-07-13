@@ -1,21 +1,22 @@
 import "../styles/header.css";
+import { Link } from "react-router-dom";
 
-const Header = () => {
+const Header = (props) => {
     return (
         <header>
-            <h1>Legit Store</h1>
+            <Link to='/' className="header-logo">Legit Store&#8482;</Link>
             <ul className="header-nav">
-                <li className="header-nav_item">
-                    <a href="./">Home</a> 
+                <li>
+                    <Link to='/' className="header-nav_item">Home</Link> 
                 </li>
-                <li className="header-nav_item">
-                    <a href='./products'>Products</a>
+                <li>
+                    <Link to='/products' className="header-nav_item">Products</Link>
                 </li>
-                <li className="header-nav_item">
-                    <a href='./contacts' >Contacts</a>
+                <li>
+                    <Link to='/contacts' className="header-nav_item">Contacts</Link>
                 </li>
-                <li className="header-nav_item">
-                    <a href='./cart'>Cart</a>
+                <li>
+                    <Link to='/cart' className="header-nav_item">Cart({props.counter})</Link>
                 </li>
             </ul>
         </header>
