@@ -1,14 +1,32 @@
 {
   "files": {
-    "main.css": "/odin_shopping-cart/static/css/main.71de7cac.css",
-    "main.js": "/odin_shopping-cart/static/js/main.e4e7eb03.js",
+    "main.css": "/odin_shopping-cart/static/css/main.22a90f59.css",
+    "main.js": "/odin_shopping-cart/static/js/main.383cc9dd.js",
     "static/media/main_background.jpeg": "/odin_shopping-cart/static/media/main_background.8427946c7d328a64b84c.jpeg",
+    "static/media/nikon-z9.jpg": "/odin_shopping-cart/static/media/nikon-z9.d331f617e1656f7e3a89.jpg",
+    "static/media/canon-eos-r3.jpg": "/odin_shopping-cart/static/media/canon-eos-r3.678b06d59aa7b014e852.jpg",
+    "static/media/canon-eos-6dm2.jpg": "/odin_shopping-cart/static/media/canon-eos-6dm2.5cd5f793c6c361116114.jpg",
+    "static/media/nikon-d850.jpg": "/odin_shopping-cart/static/media/nikon-d850.f34602fc987aebb6c21d.jpg",
+    "static/media/sony-a7r-v.jpg": "/odin_shopping-cart/static/media/sony-a7r-v.3533ffa93059b8038274.jpg",
+    "static/media/canon-eos-r5.jpg": "/odin_shopping-cart/static/media/canon-eos-r5.38e9c4dc4075962861b1.jpg",
+    "static/media/nikon-z8.jpg": "/odin_shopping-cart/static/media/nikon-z8.64975ed14aea959cb2e1.jpg",
+    "static/media/canon-rf50f12l.jpg": "/odin_shopping-cart/static/media/canon-rf50f12l.a86be501efae3f551323.jpg",
+    "static/media/sony-fe50f14gm.jpg": "/odin_shopping-cart/static/media/sony-fe50f14gm.85bb4b53c5f1b84cb58d.jpg",
+    "static/media/canon-rf2870f2l.jpg": "/odin_shopping-cart/static/media/canon-rf2870f2l.f3a8ecff018ae418155f.jpg",
+    "static/media/canon-rf1535f28l.jpg": "/odin_shopping-cart/static/media/canon-rf1535f28l.ed5345ec56b007f4a18d.jpg",
+    "static/media/sony-a7c.jpg": "/odin_shopping-cart/static/media/sony-a7c.95acb78d5b6fa534e45c.jpg",
+    "static/media/sony-fe2470f28gm2.jpg": "/odin_shopping-cart/static/media/sony-fe2470f28gm2.f1eb85b16f9783effba8.jpg",
+    "static/media/nikon-z24120f4s.jpg": "/odin_shopping-cart/static/media/nikon-z24120f4s.f1aa378110a972de1f6f.jpg",
+    "static/media/nikon-z85f12s.jpg": "/odin_shopping-cart/static/media/nikon-z85f12s.d8bff5896de91ca2b015.jpg",
+    "static/media/sony-fe70200f28gm2.jpg": "/odin_shopping-cart/static/media/sony-fe70200f28gm2.225274e3cd3afa3cbf59.jpg",
+    "static/media/sony-zv-e1.jpg": "/odin_shopping-cart/static/media/sony-zv-e1.d640b1d3b862b777ddfe.jpg",
+    "static/media/nikon-z100400f4556vrs.jpg": "/odin_shopping-cart/static/media/nikon-z100400f4556vrs.3bb7be750f8be716094c.jpg",
     "index.html": "/odin_shopping-cart/index.html",
-    "main.71de7cac.css.map": "/odin_shopping-cart/static/css/main.71de7cac.css.map",
-    "main.e4e7eb03.js.map": "/odin_shopping-cart/static/js/main.e4e7eb03.js.map"
+    "main.22a90f59.css.map": "/odin_shopping-cart/static/css/main.22a90f59.css.map",
+    "main.383cc9dd.js.map": "/odin_shopping-cart/static/js/main.383cc9dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.71de7cac.css",
-    "static/js/main.e4e7eb03.js"
+    "static/css/main.22a90f59.css",
+    "static/js/main.383cc9dd.js"
   ]
 }
