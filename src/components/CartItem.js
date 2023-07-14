@@ -4,7 +4,7 @@ const CartItem = (props) => {
     const {img, name, price} = props.data;
     return (
         <div className="cart-item">
-            <img src={img} alt={name} className="cart-item_img"/>
+            <img src={require('../img/'+img)} alt={name} className="cart-item_img"/>
             <div className="cart-item_desc">
                 <h3>{name}</h3>
                 <p>${price * props.amount}</p>
