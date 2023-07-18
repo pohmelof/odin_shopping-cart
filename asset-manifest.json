@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/odin_shopping-cart/static/css/main.22a90f59.css",
-    "main.js": "/odin_shopping-cart/static/js/main.383cc9dd.js",
+    "main.css": "/odin_shopping-cart/static/css/main.38be1664.css",
+    "main.js": "/odin_shopping-cart/static/js/main.9c97bf9e.js",
     "static/media/main_background.jpeg": "/odin_shopping-cart/static/media/main_background.8427946c7d328a64b84c.jpeg",
     "static/media/nikon-z9.jpg": "/odin_shopping-cart/static/media/nikon-z9.d331f617e1656f7e3a89.jpg",
     "static/media/canon-eos-r3.jpg": "/odin_shopping-cart/static/media/canon-eos-r3.678b06d59aa7b014e852.jpg",
@@ -22,11 +22,11 @@
     "static/media/sony-zv-e1.jpg": "/odin_shopping-cart/static/media/sony-zv-e1.d640b1d3b862b777ddfe.jpg",
     "static/media/nikon-z100400f4556vrs.jpg": "/odin_shopping-cart/static/media/nikon-z100400f4556vrs.3bb7be750f8be716094c.jpg",
     "index.html": "/odin_shopping-cart/index.html",
-    "main.22a90f59.css.map": "/odin_shopping-cart/static/css/main.22a90f59.css.map",
-    "main.383cc9dd.js.map": "/odin_shopping-cart/static/js/main.383cc9dd.js.map"
+    "main.38be1664.css.map": "/odin_shopping-cart/static/css/main.38be1664.css.map",
+    "main.9c97bf9e.js.map": "/odin_shopping-cart/static/js/main.9c97bf9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.22a90f59.css",
-    "static/js/main.383cc9dd.js"
+    "static/css/main.38be1664.css",
+    "static/js/main.9c97bf9e.js"
   ]
 }
