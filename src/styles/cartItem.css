@@ -25,19 +25,12 @@
     margin: 0 30px;
 }
 
-.btn-amount {
-    border-radius: 10px;
-    border: 2px  solid green;
-    color: green;
-    background-color: white;
-    font-size: 2rem;
+button.btn-amount {
     width: 40px;
     height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-.btn-amount:hover {
-    background-color: green;
-    color: white;
+    padding: 0;
+    font-size: 1.5rem;
 }

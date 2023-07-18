@@ -6,6 +6,11 @@ header {
     justify-content: space-between;
     padding: 0 5vw;
 }
+@media (max-width: 400px) {
+    header {
+        flex-direction: column;
+    }
+}
 
 .header-logo {
     color: green;
@@ -19,10 +24,11 @@ header {
 .header-nav {
     display: flex;
     list-style: none;
+    padding: 0;
 }
 
 .header-nav_item {
-    margin-left: 2em;
+   margin: 0 3vw;
     padding-bottom: 3px;
     text-decoration: none;
     font-weight: bold;
@@ -38,7 +44,7 @@ footer {
     background-color: aliceblue;
     border-top: 2px solid green;
     text-align: center;
-    padding: 10px;
+    padding: 2vw 5vw;
 }
 footer h3 {
     margin: 0;

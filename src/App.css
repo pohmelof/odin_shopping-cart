@@ -27,9 +27,25 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
+.btn {
+    padding: 10px 40px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid green;
+    background-color: green;
+    color: white;
+    transition: ease-in 0.05s;
+}
+.btn:hover {
+    background-color: white;
+    color: green;
+}
 
 .btn:active {
     transform: scale(0.9);
 }
 
-
+.products {
+    flex-grow: 1;
+}

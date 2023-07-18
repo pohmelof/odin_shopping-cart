@@ -29,14 +29,3 @@
                  -1px 1px 5px black,
                  1px -1px 5px black;
 }
-.main_heading a {
-    text-decoration: none;
-    margin-top: 30%;
-    color: green;
-    text-shadow: none;
-    background-color: white;
-    display: inline-block;
-    padding: 0 40px;
-    border: 2px solid green;
-    border-radius: 10px;
-}
